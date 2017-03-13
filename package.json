@@ -1,0 +1,26 @@
+{
+    "author": "FreemanEdTech",
+    "dependencies": {},
+    "keywords": [],
+    "name": "basic-watchface",
+    "pebble": {
+        "displayName": "Basic Watchface",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "3ad125cb-91dd-42c4-b87f-f581f5fb654c",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "0.1.0"
+}
